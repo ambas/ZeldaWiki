@@ -1,0 +1,20 @@
+html,
+body,
+div {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    margin: 0 auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 900px;
+}
+
+.container {
+    padding: 0px;
+    width: 100%;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
